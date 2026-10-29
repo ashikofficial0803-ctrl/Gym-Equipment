@@ -765,3 +765,29 @@ footer {
         font-size: 2.2rem;
     }
 }
+
+.promotion-banner {
+    background: #111827;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.promotion-banner p {
+    margin: 0 0 12px;
+}
+
+.promotion-banner a {
+    display: inline-block;
+    background: #f97316;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.promotion-banner a:hover {
+    background: #ea580c;
+}
